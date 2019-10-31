@@ -1,0 +1,2 @@
+Extracts individual earnings call transcript URLs from the Seeking Alpha earnings call transcript directory pages. 
+Puts transcript URLs into a Google Sheet that can later be accessed for the list of URLs to scrape individually.
